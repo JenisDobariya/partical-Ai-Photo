@@ -1,0 +1,7 @@
+{
+  "name": "Particle Face Camera",
+  "description": "An interactive webcam particle simulation that draws your face using particles and allows you to take pictures.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
